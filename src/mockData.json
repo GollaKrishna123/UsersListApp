@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Sachin Tendulkar",
+        "role":"opener Batsman",
+        "image":"https://media.gettyimages.com/id/110022742/photo/sachin-tendulkar-of-india-raises-his-bat-on-scoring-his-century-during-the-group-b-icc-world.jpg?s=612x612&w=0&k=20&c=0dIdcZ96JtGksi_S2k5XiWua0Q8cDoeBxdUKVb2aO4c="
+    },
+    {
+        "id":2,
+        "name":"Virat Kohli",
+        "role":"Onedown Batsman",
+        "image":"https://media.gettyimages.com/id/1291720417/photo/virat-kohli-of-india-bats-during-day-one-of-the-first-test-match-between-australia-and-india.jpg?s=612x612&w=0&k=20&c=op_Dhp5S75VPt47h-xlcvbnBgodAuTMyM4msRD1XgCg="
+    },
+    {
+        "id":3,
+        "name":"Surya Kumar Yadav",
+        "role":"Twodown Batsman",
+        "image":"https://media.gettyimages.com/id/1439429777/photo/suryakumar-yadav-of-india-bats-during-the-icc-mens-t20-world-cup-match-between-india-and.jpg?s=612x612&w=0&k=20&c=WSddmKmVpxl0phGhJH_CWPSoaLsAg7X6xNe_pDih3-Q="
+    },
+    {
+        "id":4,
+        "name":"KL Rahul",
+        "role":"Threedown Batsman",
+        "image":"https://media.gettyimages.com/id/1354249452/photo/kl-rahul-of-india-celebrates-50-runs-during-the-t20-international-match-between-india-and-new.jpg?s=612x612&w=0&k=20&c=RCYCkGU9EOtO_ZckiHNmlQrYRRIRA3SBuMT_r8Ig_W4="
+    },
+    {
+        "id":5,
+        "name":"Mahendra Singh Dhoni",
+        "role":"Wicket Keeper",
+        "image":"https://media.gettyimages.com/id/1161173063/photo/ms-dhoni-of-india-in-action-batting-during-the-semi-final-match-of-the-icc-cricket-world-cup.jpg?s=612x612&w=0&k=20&c=YMKjnJ0UMLZONQLJgf6cv4WUWT-Dbjgur8t_tTA4g7Y="
+    }
+]
